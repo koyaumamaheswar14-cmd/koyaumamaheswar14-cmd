@@ -1,3 +1,3 @@
 ## 📄 Resume
 
-[View My Resume](./resume.pdf)
+![My Resume](./resume-preview.jpg)
