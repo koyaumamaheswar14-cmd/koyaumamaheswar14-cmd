@@ -40,10 +40,10 @@ B.Tech Information Technology Student passionate about Java, DSA, Backend Develo
 
 ## 📚 Problem Solving
 
-- LeetCode: 134+ Problems
+- LeetCode: 200+ Problems
 - HackerRank: 47+ Problems
-- CodeChef: 22+ Problems
-- GeeksforGeeks: 19+ Problems
+- CodeChef: 100+ Problems
+- GeeksforGeeks: 40+ Problems
 
 ---
 
@@ -65,9 +65,6 @@ Task tracking application with authentication and CRUD functionality.
 
 ## 🎯 Current Goals
 
-- Complete DevFlow
-- Master Spring Boot Microservices
-- Reach 350+ LeetCode Problems
 - Crack Microsoft SDE Internship
 
 ---
@@ -82,3 +79,4 @@ github.com/koyaumamaheswar14-cmd
 
 Email:
 koyaumamaheswar.14@gmail.com
+Phone :6309242547
